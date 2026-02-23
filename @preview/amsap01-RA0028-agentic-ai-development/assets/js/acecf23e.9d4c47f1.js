@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksap_architecture_center=globalThis.webpackChunksap_architecture_center||[]).push([[1903],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/@preview/amsap01-RA0028-agentic-ai-development/blog","blogTitle":"SAP Architecture Center - News","authorsListPath":"/@preview/amsap01-RA0028-agentic-ai-development/blog/authors"}')}}]);
